@@ -7,6 +7,6 @@ public class CrimeActivity extends SingleFragmentActivity  {
 
     @Override
     protected Fragment createFragment() {
-        return new git CrimeFragment();
+        return new CrimeFragment();
     }
 }
